@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ</title>
+    <style>
+        body {
+            font-family: showcard-gothic;
+            background-color: #e0115f;
+            color: ##F5C400;
+            text-align: center;
+            padding: 50px;
+            <style>
+    
+  }
+</style>
+
+        }
+        h1 { color: #007acc; }
+    </style>
+</head>background-image: url("background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+<body>
+    <h1>Frequently Asked Questions</h1>
+    <p>Is this website AI Coded? Yes because i'm a Piece of shit that dosen't know how to code.</p>
+
+</body>
+</html>
